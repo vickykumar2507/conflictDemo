@@ -12,6 +12,8 @@ public class AccountPage {
 		
 		int sal=15;
 		
+		String name="vicky";
+		
 	}
 
 }
