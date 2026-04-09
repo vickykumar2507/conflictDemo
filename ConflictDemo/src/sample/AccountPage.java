@@ -16,4 +16,7 @@ public class AccountPage {
 		
 	}
 
+	public static void master(){
+		
+System.out.println("Hi master");
 }
