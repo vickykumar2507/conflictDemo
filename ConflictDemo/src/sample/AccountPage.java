@@ -9,7 +9,9 @@ public class AccountPage {
 		System.out.println(str1);
 		
 		System.out.println("adding my new code");
-		int sal =12;
+		
+		
+		
 	}
 
 }
